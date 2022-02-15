@@ -29,7 +29,7 @@ config.rb
 /usr/*.db
 /usr/plugins/
 !/usr/plugins/HelloWorld
-/usr/themes/
+
 !/usr/themes/default
 node_modules/
 /tools/tmp/
